@@ -2,14 +2,12 @@
   "name": "vue-cli-starter",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/victorcngo/vue-cli-starter#readme",
   "description": "A quick Vue-CLI boilerplate using Vue 2x and Webpack",
   "author": {
     "name": "Victor Cango",
     "email": "hello@victorcango.fr",
     "url": "http://victorcango.fr/"
   },
-  "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -17,11 +15,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "^4.5.13",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
@@ -50,5 +50,7 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "homepage": "https://github.com/victorcngo/vue-cli-starter#readme",
+  "license": "ISC"
 }
