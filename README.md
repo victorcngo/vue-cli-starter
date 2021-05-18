@@ -2,7 +2,7 @@
 
 #### A quick Vue-CLI boilerplate using Vue 2x and Webpack  ####
 
-Vue-CLI starter is a easy-to-use boilerplate using Vue 2x and Webpack. It embarks basic and clean project scaffolding, Babel for ES2015 transpilation, sass-loader for preprocessors, and ES Lint.
+Vue-CLI starter is a easy-to-use boilerplate using Vue 2x and Webpack. It embarks basic and clean project scaffolding, Babel for ES2015 transpilation, a SASS/SCSS support with a flexible stylesheets skeleton, and ES Lint.
 
 ### Table of content
 - [Introduction](#-introduction)
@@ -21,9 +21,9 @@ Vue-CLI starter is a easy-to-use boilerplate using Vue 2x and Webpack. It embark
 ### Serving the app
 
 ## Configuration
+### Webpack
 ### Working with SCSS
 ### Working with Typescript
-### Linters
 
 ## Building for production
 ### Optimizing your assets
