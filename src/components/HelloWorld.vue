@@ -9,11 +9,11 @@
 export default {
 	name: "HelloWorld",
 	props: {
-		msg: String,
-	},
+		msg: String
+	}
 };
 </script>
 
 <style lang="scss">
-@import "../sass/components/HelloWorld.scss";
+@import "../styles/components/HelloWorld.scss";
 </style>
