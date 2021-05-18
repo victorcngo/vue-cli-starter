@@ -1,6 +1,6 @@
 <template>
 	<div class="App">
-		<HelloWorld msg="Vue 2 + Webpack starter" />
+		<hello-world msg="Vue 2 + Webpack starter" />
 	</div>
 </template>
 
@@ -14,7 +14,3 @@ export default {
 	},
 };
 </script>
-
-<style lang="scss">
-@import './sass/app.scss';
-</style>
