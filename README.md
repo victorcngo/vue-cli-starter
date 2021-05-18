@@ -1,24 +1,37 @@
 # vue-cli-starter
 
-## Project setup
-```
-npm install
-```
+#### A quick Vue-CLI boilerplate using Vue 2x and Webpack  ####
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Vue-CLI starter is a easy-to-use boilerplate using Vue 2x and Webpack. It embarks basic and clean project scaffolding, Babel for ES2015 transpilation, sass-loader for preprocessors, and ES Lint.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Table of content
+- [Introduction](#-introduction)
+- [Getting started](#-getting-started)
+- [Configuration](#-configuration)
+- [Building for production](#-building-for-production)
+- [Contributing](#-contributing)
+- [Credits](#-credits)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Introduction
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Getting started
+### Clone from the repository
+### Download ZIP
+### Packages installation
+### Serving the app
+
+## Configuration
+### Working with SCSS
+### Working with Typescript
+### Linters
+
+## Building for production
+### Optimizing your assets
+
+## Contributing
+
+## Credits
+
+2021 © [victorcango.fr](https://victorcango.fr)
+
+
