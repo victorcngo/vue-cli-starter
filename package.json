@@ -5,9 +5,9 @@
   "homepage": "https://github.com/victorcngo/vue-cli-starter#readme",
   "description": "A quick Vue-CLI boilerplate using Vue 2x and Webpack",
   "author": {
-    "name" : "Victor Cango",
-    "email" : "hello@victorcango.fr",
-    "url" : "http://victorcango.fr/"
+    "name": "Victor Cango",
+    "email": "hello@victorcango.fr",
+    "url": "http://victorcango.fr/"
   },
   "license": "ISC",
   "scripts": {
@@ -26,6 +26,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "postcss": "^8.2.15",
     "sass": "^1.32.13",
     "sass-loader": "^10",
     "vue-template-compiler": "^2.6.11",
